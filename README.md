@@ -11,11 +11,11 @@
 
 ---
 
-## 📂 Organización del Repositorio
+## Organización del Repositorio
 
 Para mantener un flujo de trabajo limpio y organizado, el contenido se estructura de la siguiente manera:
 
-### 📖 1. Sección Teórica
+### 1. Sección Teórica
 
 Debido a la extensión de los conceptos, la base teórica se gestiona de forma externa para facilitar su lectura y actualización constante.
 
@@ -24,7 +24,7 @@ Debido a la extensión de los conceptos, la base teórica se gestiona de forma e
 
 ---
 
-### 💻 2. Sección Práctica
+### 2. Sección Práctica
 
 Todo el código fuente y los laboratorios se encuentran dentro del repositorio:
 
@@ -38,35 +38,35 @@ Todo el código fuente y los laboratorios se encuentran dentro del repositorio:
 
 ---
 
-## 📚 Temarios Cubiertos
+## Temarios Cubiertos
 
 - ⚙️ **Fundamentos**  
   Instalación, arquitectura de Docker y manejo de imágenes.
 
-- 💾 **Persistencia**  
+- **Persistencia**  
   Configuración y gestión de volúmenes de datos.
 
-- 🌐 **Networking**  
+- **Networking**  
   Creación y administración de redes virtuales en Docker.
 
-- 🧩 **Multi-contenedor**  
+- **Multi-contenedor**  
   Orquestación y despliegue utilizando Docker Compose.
 
-- 🚀 **Optimización**  
+- **Optimización**  
   Creación de imágenes livianas y eficientes para producción.
 
 ---
 
-## 🎯 Objetivo del Repositorio
+## Objetivo del Repositorio
 
 Este repositorio se mantiene como:
 
-- 📌 Referencia técnica personal  
-- 📌 Evidencia del dominio de herramientas de virtualización  
-- 📌 Práctica aplicada de entornos reales de desarrollo  
+- Referencia técnica personal  
+- Evidencia del dominio de herramientas de virtualización  
+- Práctica aplicada de entornos reales de desarrollo  
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 Repositorio desarrollado como parte del proceso de aprendizaje en Docker.
